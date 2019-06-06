@@ -3,5 +3,5 @@ projectKey=DmytroPushkarchuk_NewMaven
 serverUrl=https://sonarcloud.io
 serverVersion=7.8.0.25856
 dashboardUrl=https://sonarcloud.io/dashboard?id=DmytroPushkarchuk_NewMaven
-ceTaskId=AWsuu-GkyXL-48RokRQG
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWsuu-GkyXL-48RokRQG
+ceTaskId=AWsu4gATje6uYJ4SfPeu
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWsu4gATje6uYJ4SfPeu

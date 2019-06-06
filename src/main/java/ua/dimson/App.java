@@ -11,7 +11,6 @@ public class App {
 		int b;
 
 		System.out.println("Hello World!");
-		System.out.println("Hello World!");
-		System.out.println("Hello World!");
+
 	}
 }
