@@ -4,10 +4,12 @@ package ua.dimson;
  * Hello world!
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App {
+	public static void main(String[] args) {
+
+		int i;
+		int b;
+
+		System.out.println("Hello World!");
+	}
 }
